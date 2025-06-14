@@ -6,7 +6,7 @@ catboost
 seaborn
 ipykernel
 python-dotenv
-pymongo
+pymongo[srv]==3.6
 certifi
 
 
