@@ -1,0 +1,8 @@
+numpy 
+pandas
+matplotlib
+flask
+catboost
+seaborn
+ipykernel
+python-dotenv
