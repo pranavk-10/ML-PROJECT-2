@@ -6,3 +6,8 @@ catboost
 seaborn
 ipykernel
 python-dotenv
+pymongo
+certifi
+
+
+-e .
