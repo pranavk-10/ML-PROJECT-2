@@ -6,9 +6,11 @@ catboost
 seaborn
 ipykernel
 python-dotenv
-pymongo[srv]==3.6
+pymongo[srv]==4.13
 certifi
 scikit-learn
+dill
+pyaml
 
 
 -e .
