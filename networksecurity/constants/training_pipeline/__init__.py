@@ -11,7 +11,7 @@ FILE_NAME :str = 'phisingData.csv'
 TRAIN_FILE_NAME :str = 'train.csv'
 TEST_FILE_NAME :str = 'test.csv'
 
-SCHEMA_FILE-PATH = os.path.join("data_schema" , "schema.yaml")
+SCHEMA_FILE_PATH = os.path.join("data_schema" , "schema.yaml")
 
 
 DATA_INGESTION_COLLECTION_NAME : str = "NetworkData"
